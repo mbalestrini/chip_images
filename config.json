@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Open MPW Shuttle Program Gallery",
+  "title": "Albums",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
