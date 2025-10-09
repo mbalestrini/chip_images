@@ -1,5 +1,4 @@
-### Collection of photos and videos related to the Google's sponsored Open MPW Shuttle Program
-Information about the program: https://efabless.com/open_shuttle_program
+### Collection of photos and videos I took of different chips, most of them from Google's sponsored Open MPW Shuttle Program
 
 Gallery: https://mbalestrini.github.io/open_mpw_program_images/
 
