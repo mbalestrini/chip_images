@@ -9,8 +9,8 @@ No attribution required, but appreciated. If you’d like to credit me, please u
 
 ---
 
-![alt text](doc/gear1.jpg)  
-![alt text](doc/gear2.jpg)
+![](docs/gear1.jpg)  
+![](docs/gear2.jpg)
 ---
 
 #### Gallery built with: https://github.com/gautamkrishnar/github-pages-gallery
